@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Stacktrace for Atom
 
 *Navigate stacktraces within Atom!*
